@@ -1,0 +1,4 @@
+# Optional LLVC CPU runtime, Python >=3.10; model weights are not bundled.
+# Matches the validated Pi M2 ONNX Runtime. Keep NumPy below 2 for this wheel.
+numpy==1.26.4
+onnxruntime==1.16.3

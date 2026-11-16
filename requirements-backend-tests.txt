@@ -1,0 +1,3 @@
+# Local numerical tests only; not a runtime or distribution dependency closure.
+# Python >=3.10; NumPy BSD license and bundled notices still apply.
+numpy==2.2.4

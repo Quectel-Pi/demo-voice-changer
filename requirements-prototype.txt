@@ -1,0 +1,4 @@
+# UI-only, no audio/DSP/AI dependencies. Python >= 3.10.
+# Qt Widgets/QtTest only; no Addons (WebEngine, multimedia, etc.).
+# PySide6: LGPL-3.0/GPL-3.0/commercial; see Qt distribution obligations.
+PySide6-Essentials==6.8.3
