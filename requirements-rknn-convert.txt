@@ -1,0 +1,6 @@
+# Host-only graph preparation dependencies; install separately from the RKNN Toolkit2 wheel.
+numpy==1.26.4
+onnx==1.17.0
+onnxruntime==1.22.1
+onnxsim==0.4.36
+opencv-python==4.11.0.86

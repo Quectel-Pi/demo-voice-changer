@@ -1,0 +1,20 @@
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+__pycache__/
+.venv/
+.venv-*/
+
+# Local configuration, recordings, model weights and measurement outputs
+.env
+.env.*
+!.env.example
+*.local.json
+*.local.toml
+recordings/
+models/
+measurements/

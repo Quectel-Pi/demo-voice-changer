@@ -1,0 +1,8 @@
+# CPython 3.13 / Debian arm64. NumPy 2.2.4 comes read-only from Debian.
+# MIT: sounddevice, CFFI. BSD-3-Clause: pycparser.
+sounddevice==0.5.3 \
+    --hash=sha256:ea7738baa0a9f9fef7390f649e41c9f2c8ada776180e56c2ffd217133c92a806
+cffi==2.0.0 \
+    --hash=sha256:d48a880098c96020b02d5a1f7d9251308510ce8858940e6fa99ece33f610838b
+pycparser==2.23 \
+    --hash=sha256:e5c6e8d3fbad53479cab09ac03729e0a9faf2bee3db8208a550daf5af81a5934
